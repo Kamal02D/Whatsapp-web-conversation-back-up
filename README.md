@@ -33,8 +33,8 @@ The extracted data is then stored in a CSV file for further analysis. The user c
 | "OK, thanks for letting us know"              | 1/3/2022      | 14:05  | group            | Marketing Team   | Jane Smith |             | 1987654321    |                 |
 | I won't be able to attend the meeting         | 1/4/2022      | 9:30   | group            | Marketing Team   |             |             |                |                 |
 | Is there anything we can do to help?          | 1/4/2022      | 9:35   | group            | Marketing Team   | Jane Smith |             | 1987654321    |                 |
-| "Don't worry, I'll catch up with you later"   | 1/5/2022      | 17:00  | personal         |                  | Jane Smith  |             |               |                 |
-| Can you pick up some milk on your way home?    | 1/6/2022      | 8:45   | personal         |                  |             | Jane Smith  |               | 1987654321      |
+| "Don't worry, I'll catch up with you later"   | 1/5/2022      | 17:00  | personal         |                  | Jane Smith  |             |1987654321 |                 |
+| Can you pick up some milk on your way home?    | 1/6/2022      | 8:45   | personal         |                  |             | Jane Smith  |               |1987654321      |
 | Here's the report you asked for               | 1/7/2022      | 11:00  | personal         |                  |             | Jane Smith  |               | 1987654321      |
 | "Thanks, I'll take a look at it now"          | 1/7/2022      | 11:05  | personal         |                  |             | Jane Smith  |               | 1987654321      |
 | Reminder: meeting tomorrow at 10am            | 1/8/2022      | 16:00  | group            | Marketing Team   |             |             |               |                 |
