@@ -24,6 +24,9 @@ The extracted data is then stored in a CSV file for further analysis. The user c
 * you need also to find the chrome driver compatible with your chrome from here : https://chromedriver.chromium.org/downloads
 
 ## CSV file structure
+ * if the sender is the current user then there is no need to fill "sender" , "sender number" field 
+ * if the receiver is current user then there is no need to fill "reciever" , "reciever number" field
+ * in a group the receiver info feilds are always empty
 ## How CSV file looks looks like
 | Message                                       | Date          | Time   | Conversation Type | Group Title      | Sender      | Receiver    | Sender Number | Receiver Number |
 | --------------------------------------------- | ------------- | ------ | ---------------- | ---------------- | -----------| -----------| ------------- | --------------- |
