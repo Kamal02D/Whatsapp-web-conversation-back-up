@@ -17,16 +17,16 @@ The extracted data is then stored in a CSV file for further analysis. The user c
 * this project assumes that you are logged in into your whasapp in chrome
 
 ## Things you might need to change 
-(all of these variables are stacked in the begning of the script)
+(all of these variables are stacked in the beginning of the script)
 * CSV_FILE_STORING_LOCATION : where you want your csv file to be stored
-* CHROME_DATA_LOCATION : you need to add your chrome data location , if you don't know how you can follow this tutoriel  : https://www.howtogeek.com/255653/how-to-find-your-chrome-profile-folder-on-windows-mac-and-linux/
+* CHROME_DATA_LOCATION : you need to add your chrome data location , if you don't know how you can follow this tutorial  : https://www.howtogeek.com/255653/how-to-find-your-chrome-profile-folder-on-windows-mac-and-linux/
 * PROFILE_NAME : the profile name which your whatsapp web app exists
 * you need also to find the chrome driver compatible with your chrome from here : https://chromedriver.chromium.org/downloads
 
 ## CSV file structure
  * if the sender is the current user then there is no need to fill "sender" , "sender number" field 
- * if the receiver is current user then there is no need to fill "reciever" , "reciever number" field
- * in a group the receiver info feilds are always empty
+ * if the receiver is current user then there is no need to fill "receiver" , "receiver number" field
+ * in a group the receiver info fields are always empty
 ## How CSV file looks looks like
 | Message                                       | Date          | Time   | Conversation Type | Group Title      | Sender      | Receiver    | Sender Number | Receiver Number |
 | --------------------------------------------- | ------------- | ------ | ---------------- | ---------------- | -----------| -----------| ------------- | --------------- |
