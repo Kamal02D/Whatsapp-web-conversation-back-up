@@ -18,6 +18,6 @@ The extracted data is then stored in a CSV file for further analysis. The user c
 
 ## Things you might need to change 
 (all of these variables are stacked in the begning of the script)
-CSV_FILE_STORING_LOCATION : where you want your csv file to be stored
-CHROME_DATA_LOCATION : you need to add your chrome data location , if you don't know how you can follow this tutoriel  : https://www.howtogeek.com/255653/how-to-find-your-chrome-profile-folder-on-windows-mac-and-linux/
-PROFILE_NAME : the profile name which your whatsapp web app exists
+* CSV_FILE_STORING_LOCATION : where you want your csv file to be stored
+* CHROME_DATA_LOCATION : you need to add your chrome data location , if you don't know how you can follow this tutoriel  : https://www.howtogeek.com/255653/how-to-find-your-chrome-profile-folder-on-windows-mac-and-linux/
+* PROFILE_NAME : the profile name which your whatsapp web app exists
