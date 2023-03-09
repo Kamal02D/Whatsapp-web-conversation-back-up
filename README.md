@@ -31,7 +31,7 @@ The extracted data is then stored in a CSV file for further analysis. The user c
 | Can you send me that file?                    | 1/2/2022      | 10:15  | personal         |                  | Jane Smith  |             |               | 1987654321      |
 | Meeting postponed to next week                | 1/3/2022      | 14:00  | group            | Marketing Team   |             |             |               |                 |
 | "OK, thanks for letting us know"              | 1/3/2022      | 14:05  | group            | Marketing Team   | Jane Smith |             | 1987654321    |                 |
-| I won't be able to attend the meeting         | 1/4/2022      | 9:30   | group            | Marketing Team   |             |             | 1234567890    |                 |
+| I won't be able to attend the meeting         | 1/4/2022      | 9:30   | group            | Marketing Team   |             |             |                |                 |
 | Is there anything we can do to help?          | 1/4/2022      | 9:35   | group            | Marketing Team   | Jane Smith |             | 1987654321    |                 |
 | "Don't worry, I'll catch up with you later"   | 1/5/2022      | 17:00  | personal         |                  | Jane Smith  |             |               |                 |
 | Can you pick up some milk on your way home?    | 1/6/2022      | 8:45   | personal         |                  |             | Jane Smith  |               | 1987654321      |
