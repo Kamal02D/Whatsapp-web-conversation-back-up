@@ -27,8 +27,8 @@ The extracted data is then stored in a CSV file for further analysis. The user c
 ## How CSV file looks looks like
 | Message                                       | Date          | Time   | Conversation Type | Group Title      | Sender      | Receiver    | Sender Number | Receiver Number |
 | --------------------------------------------- | ------------- | ------ | ---------------- | ---------------- | -----------| -----------| ------------- | --------------- |
-| "Hi, how are you?"                            | 1/1/2022      | 12:30  | personal         |                  | John Doe    |             |               | 1234567890      |
-| Can you send me that file?                    | 1/2/2022      | 10:15  | personal         |                  | Jane Smith  |             |               | 1987654321      |
+| "Hi, how are you?"                            | 1/1/2022      | 12:30  | personal         |                  | John Doe    |             |      1234567890    |       |
+| Can you send me that file?                    | 1/2/2022      | 10:15  | personal         |                  | Jane Smith  |             |   1987654321      |       |
 | Meeting postponed to next week                | 1/3/2022      | 14:00  | group            | Marketing Team   |             |             |               |                 |
 | "OK, thanks for letting us know"              | 1/3/2022      | 14:05  | group            | Marketing Team   | Jane Smith |             | 1987654321    |                 |
 | I won't be able to attend the meeting         | 1/4/2022      | 9:30   | group            | Marketing Team   |             |             |                |                 |
@@ -41,7 +41,6 @@ The extracted data is then stored in a CSV file for further analysis. The user c
 | Thanks for reminding us!                      | 1/8/2022      | 16:05  | group            | Marketing Team   | Jane Smith |             | 1987654321    |                 |
 | Who's bringing the coffee?                    | 1/9/2022      | 9:00   | group            | Marketing Team   |             |             |               |                 |
 | I can pick it up on my way to work            | 1/9/2022      | 9:05   | group            | Marketing Team   | Jane Smith |             | 1987654321    |                 |
-| "Hello everyone, welcome to the group!"       | 1/10/2022     | 10:00  | group            | Marketing Team   |             |             |               |                 |
-| Thanks for adding me to the group!            | 1/10/2022     | 10:05  | group           
+| "Hello everyone, welcome to the group!"       | 1/10/2022     | 10:00  | group            | Marketing Team   |             |             |               |                 |          
 
 
